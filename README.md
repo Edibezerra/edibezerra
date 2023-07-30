@@ -1,5 +1,5 @@
 
- ## Olá sou Edinardo Bezerra 👋
+ ### Olá sou Edinardo Bezerra 👋
 
   Sou um profissional com 12 anos de experiência na área de engenharia civil, estou em fase de transição de carreira, buscando especialização na linguagem Java e procurando oportunidade na área de desenvolvimento de sistemas.
 
@@ -15,7 +15,6 @@ Atualmento curso Análise e Desenvolvimeto de Sistemas.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
